@@ -111,3 +111,10 @@ prism_plugin:
   theme: 'default'
   line_number: false    # default false
   custom_css: 'path/to/your/custom.css'     # optional
+
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  Tags: /tags
